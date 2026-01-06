@@ -1,0 +1,18 @@
+"""
+-------------------------------------------------------
+testing.txt
+CP213 Documentation Lab Testing
+-------------------------------------------------------
+Author: Manahil Bashir 
+ID: 169061137 
+Email: bash1137@mylaurier.ca
+Version: 2025-05-15 
+-------------------------------------------------------
+"""
+Enter a line of text:
+hello hi
+For keyboard1 the two words read are:
+hello
+hi
+Reenter the same line of text:
+hello hi
